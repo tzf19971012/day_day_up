@@ -7,6 +7,7 @@
 - [2026-11-12：RGB latent 深度恢复的逻辑与验证](daily/2026-11-12.md)
 - [11 月 11 日实验结果汇报](reports/2026-11-11-experiment-results.md)
 - [RGB projection loss 分析](reports/2026-11-12-projection-rgb-loss.md)
+- [多视角＋DiT 深度 decoder 续训至 20000 步的收益](reports/2026-11-12-wan-depth-continue20k.md)
 - [反思：从 Wan RGB latent 恢复深度](reflections/2026-11-12-wan-latent-depth.md)
 - [2026-11-11：研究主线、深度恢复实验与 UAV 训练](daily/2026-11-11.md)
 - [日报模板](templates/daily.md)
