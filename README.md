@@ -5,6 +5,8 @@
 每篇日报先列当天最关键的 3～5 个点，再记录讨论细节、证据、待验证假设和任务状态。实验的“准备完成”“进程启动”“完成更新”“效果验证”分别记录。
 
 - [2026-11-12：RGB latent 深度恢复的逻辑与验证](daily/2026-11-12.md)
+- [11 月 11 日实验结果汇报](reports/2026-11-11-experiment-results.md)
+- [RGB projection loss 分析](reports/2026-11-12-projection-rgb-loss.md)
 - [反思：从 Wan RGB latent 恢复深度](reflections/2026-11-12-wan-latent-depth.md)
 - [2026-11-11：研究主线、深度恢复实验与 UAV 训练](daily/2026-11-11.md)
 - [日报模板](templates/daily.md)
